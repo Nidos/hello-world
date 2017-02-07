@@ -1,2 +1,6 @@
 # hello-world
-trying out
+
+Hello World!
+
+This is my first time trying github.
+I hope I get the hang of it quickly.
